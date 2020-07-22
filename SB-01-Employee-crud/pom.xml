@@ -13,7 +13,7 @@
 	<artifactId>SB-01-Employee-crud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SB-01-Employee-crud</name>
-	<description>H2, Lombok, jackson xml resp</description>
+	<description>H2, SB, Junit mockito , actuator basics, config externalisation or profiling, REST Repository, jackson xml resp</description>
 
 	<properties>
 		<java.version>1.8</java.version>
